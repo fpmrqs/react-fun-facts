@@ -1,0 +1,25 @@
+{
+  "name": "fun-facts",
+  "version": "1.0.0",
+  "description": "This is the first of a series of small projects I'm using to learn abour React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fpmrqs/react-fun-facts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fpmrqs/react-fun-facts/issues"
+  },
+  "homepage": "https://github.com/fpmrqs/react-fun-facts#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.0",
+    "http-server": "^14.1.0"
+  }
+}
