@@ -57,5 +57,11 @@ nav > h2 {
   padding-block: 10px;
 }
 
+.main-section > ul > li::marker {
+  font-size: 1.4rem;
+  color: #61DAFB;
+
+}
+
 
 
