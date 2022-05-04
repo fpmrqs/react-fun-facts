@@ -5,6 +5,7 @@
 
 body {
   margin: 0;
+  background: #282D35;
 }
 
 nav {
@@ -34,6 +35,27 @@ nav > h2 {
   color: #DEEBF8;
   margin-right: 27px;
   }
+
+.main-section {
+  padding: 57px 27px;
+}
+
+.main-section > h1 {
+  color: #FFFFFF;
+  font-size: 40px;
+  margin: 0 0 46px 27px;
+}
+
+.main-section > ul {
+  max-width: 500px;
+  margin-left: 50px;
+}
+
+.main-section > ul > li {
+  color: #FFFFFF;
+  font-size: 16px;
+  padding-block: 10px;
+}
 
 
 
