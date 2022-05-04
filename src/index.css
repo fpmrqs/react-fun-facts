@@ -38,6 +38,9 @@ nav > h2 {
 
 .main-section {
   padding: 57px 27px;
+  background-image: url("./images/reactjs-icon-2.svg");
+  background-repeat: no-repeat;
+  background-position: 100% 75%;
 }
 
 .main-section > h1 {
